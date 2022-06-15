@@ -15,6 +15,10 @@ Første gang man snakker med oss, er det bare for å bli kjent og si hei, uten f
 
 Om begge parter finner ut at det er interessant å gå videre, er det det tekniske- eller fagintervjuet som er runde 2.
 
+## Savner du noe?
+
+Noe du savner at vi burde spørre om? Lag en PR da vel! Vi tar gjerne i mot innspill for å gjøre intervjuprosessen bedre for alle parter!
+
 # Kontakt oss
 
 :exclamation: Per 15 juni 2022 ser vi aktivt etter utviklere i Bergen og leser du dette er du nok en vi gjerne vil snakke med!

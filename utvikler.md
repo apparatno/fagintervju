@@ -5,8 +5,7 @@
 I Apparat er vi så åpne og gjennomsiktige som mulig og det ønsker vi skal gjenspeiles helt fra starten av. Derfor legger vi her ut listen av spørsmål og snakkepunkter vi bruker
 når vi har fagintervju, sånn at du kan lese deg opp på forhånd eller følge med underveis.
 
-Det er viktig å bemerke at vi ikke går slavisk igjennom disse punktene fra A til Å, dokumentet er heller som en meny vi tar utgangspunkt i for å drive samtalen videre og hjelper
-oss å holder styr på hva vi har og ikke har snakket om enda. Vi plukker ulike temaer og punkter ut i fra kandidatens bakgrunn og svar underveis i samtalen.
+Det er viktig å bemerke at vi ikke går slavisk igjennom disse punktene fra A til Å, dokumentet fungerer heller som en meny vi velger i fra for å drive samtalen videre og hjelper oss å holder styr på hva vi har og ikke har snakket om enda. Vi plukker ulike temaer og punkter ut i fra kandidatens bakgrunn og svar underveis i samtalen.
 
 ## 1.1 Tidsplan
 
